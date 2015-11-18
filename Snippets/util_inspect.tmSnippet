@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>sys.inspect($1)</string>
+	<string>util.inspect($1)</string>
 	<key>name</key>
-	<string>sys.inspect</string>
+	<string>util.inspect</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
