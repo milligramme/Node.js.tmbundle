@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>fs.createReadStream(${1:/path/to/file}, ${2:{
+  flags: 'r',
+  encoding: null,
+  fd: null,
+  mode: 0o666,
+  autoClose: true
+\}});</string>
+	<key>name</key>
+	<string>fs.createReadStream</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>fsrs</string>
+	<key>uuid</key>
+	<string>6B469FF4-F664-4D4B-ADF6-655AD4927BF1</string>
+</dict>
+</plist>

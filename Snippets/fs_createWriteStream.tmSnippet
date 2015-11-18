@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>fs.createWriteStream(${1:/path/to/file}, ${2:{
+  flags: 'w',
+  defaultEncoding: 'utf8',
+  fd: null,
+  mode: 0o666
+\}});</string>
+	<key>name</key>
+	<string>fs.createWriteStream</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>fsws</string>
+	<key>uuid</key>
+	<string>5CF301F5-5C04-4556-9642-2532C567A69D</string>
+</dict>
+</plist>

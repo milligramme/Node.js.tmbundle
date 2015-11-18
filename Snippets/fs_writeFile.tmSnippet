@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>fs.writeFile${1:Sync}(${20:/path/to/file}, ${25:data}${30:, ${31:options}}${40:, ${41:callback}})</string>
+	<key>name</key>
+	<string>fs.writeFile</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>fsw</string>
+	<key>uuid</key>
+	<string>3C9E726E-04FF-4EAB-9323-71AF02563AD2</string>
+</dict>
+</plist>

@@ -4,14 +4,42 @@
 <dict>
 	<key>name</key>
 	<string>Node.js</string>
-	<key>ordering</key>
-	<array>
-		<string>47CFC29F-EBB8-4933-BC16-33D0F6E89AEC</string>
-		<string>A025BF2C-2AE7-4467-A5B8-02C9F3C398FC</string>
-		<string>C5D1DE7A-12BD-4717-9485-A3636CB3B683</string>
-		<string>CAA7F0C2-5C85-4878-ACE0-85CB7849F7E9</string>
-		<string>D85E82D9-C389-420D-853D-3D0C5B40E91F</string>
-	</array>
+
+	<key>mainMenu</key>
+  <dict>
+    <key>items</key>
+  	<array>
+  		<string>47CFC29F-EBB8-4933-BC16-33D0F6E89AEC</string>
+  		<string>A025BF2C-2AE7-4467-A5B8-02C9F3C398FC</string>
+  		<string>C5D1DE7A-12BD-4717-9485-A3636CB3B683</string>
+  		<string>CAA7F0C2-5C85-4878-ACE0-85CB7849F7E9</string>
+  		<string>D85E82D9-C389-420D-853D-3D0C5B40E91F</string>
+      <string>------------------------------------</string>
+      <!-- fs   -->
+      <string>B3171AF5-F872-4464-B0A4-6016F925FFD3</string>  
+  	</array>
+
+    <key>submenus</key>
+    <dict>
+      <key>B3171AF5-F872-4464-B0A4-6016F925FFD3</key>
+      <dict>
+        <key>items</key>
+        <array>
+          <string>6B469FF4-F664-4D4B-ADF6-655AD4927BF1</string>
+        	<string>5CF301F5-5C04-4556-9642-2532C567A69D</string>
+        	<string>899D13F5-7B46-4225-9887-3717F5917010</string>
+        	<string>3C9E726E-04FF-4EAB-9323-71AF02563AD2</string>
+        </array>
+      
+        <key>name</key>
+        <string>fs</string>
+        
+      </dict>
+    </dict>
+
+  </dict>
+  
+  
 	<key>uuid</key>
 	<string>5F6C85E4-CF4D-4C2F-8547-4376926C38A0</string>
 </dict>
