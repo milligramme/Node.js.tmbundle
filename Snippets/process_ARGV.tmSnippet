@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>process.ARGV</string>
+	<string>process.argv</string>
 	<key>name</key>
-	<string>process.ARGV</string>
+	<string>process.argv</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

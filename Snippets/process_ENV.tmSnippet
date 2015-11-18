@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>process.ENV</string>
+	<string>process.env</string>
 	<key>name</key>
-	<string>process.ENV</string>
+	<string>process.env</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
